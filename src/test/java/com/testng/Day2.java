@@ -10,5 +10,6 @@ public void secondTest (){
 
 
 	System.out.println("this is day2");
+System.out.println("this is second person change to commit ");
 }	
 }
